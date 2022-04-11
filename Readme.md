@@ -11,3 +11,8 @@ Below is the html version that's easy to resize:
 ## Education
 - Colorado School of Mines, BSc Geophysical Engineering
 - Massachusetts Institute of Technology, PhD Marine Geophysics
+
+## Research Interests
+
+- Using data to undersand the structure of the earth
+- Exploring how college kids' brains work. 
